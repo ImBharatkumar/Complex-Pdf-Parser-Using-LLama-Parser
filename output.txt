@@ -1,0 +1,151 @@
+**Client Information**
+| Full Name | Phone Number | Complete Address | Email Address |
+| --- | --- | --- | --- |
+| Teleah Grand | 20005 | Dallas, TX 75219 | Not Available |
+
+**Patient Information**
+| Pet's Name | Breed | Date of Birth/Age | Gender | Microchip Number |
+| --- | --- | --- | --- | --- |
+| Buckshot | French Bulldog | Feb 28, 2018 | Neutered Male | 981020021462501 |
+
+**Veterinary Clinic Information**
+| Visit Date | Clinic Name | Phone Number |
+| --- | --- | --- |
+| Not Available | Animal Care Center at Stonebridge Ranch | Not Available |
+| Nov 23, 2022 | Not Available | Not Available |
+| Jun 09, 2022 | Not Available | Not Available |
+| Apr 21, 2022 | Not Available | Not Available |
+| Nov 05, 2019 | Not Available | Not Available |
+| Nov 01, 2019 | Not Available | Not Available |
+| Oct 09, 2018 | Not Available | Not Available |
+| May 09, 2019 | Not Available | Not Available |
+| May 21, 2019 | Not Available | Not Available |
+| Jan 23, 2023 | Not Available | Not Available |
+| Jan 16, 2023 | Not Available | Not Available |
+| Sep 20, 2022 | Not Available | Not Available |
+| Sep 13, 2024 | Not Available | Not Available |
+| Aug 26, 2024 | Not Available | Not Available |
+| May 20, 2024 | Not Available | Not Available |
+
+**Vaccination Records**
+| Vaccine Name | Administration Date | Manufacturer Tag Number |
+| --- | --- | --- |
+| Bordetella | Jun 09, 2022 | 040802.52 |
+| Bordetella | Jan 23, 2023 | Not Available |
+
+**Medical Information (<Weight History>)**
+| Weight | Date |
+| --- | --- |
+| Not Available | Not Available |
+
+**Patient Alerts**
+* Sensitive stomach
+* Inflammatory bowel disease
+* Corneal ulcer
+* Diarrhea
+* Vomiting
+* Anxiety
+* Stress
+
+**Medications**
+| Medicine Name | Strength/Dosage | Quantity | Prescription Details |
+| --- | --- | --- | --- |
+| Metronidazole 250mg | 250mg | 6.00 | Use as directed |
+| Budesonide 2mg/chew (chicken) | 2mg/chew | 0.00 | Give 1ml once daily |
+| SimpleraOtic (Florfenciol Terbinafine/Mometasone) | 1ml/tube | Not Available | Not Available |
+| ProPectalin 30ml | 30ml | 0.00 | Not Available |
+| Metro250 | 250mg | 1/2 BID | Not Available |
+| Gr Saus | 1c | BID | Not Available |
+| Tylan powder | 2 small scoops | BID | Not Available |
+| Metoclopramide 10mg | 10mg | 0.00 | Give 1/4 tablet by mouth twice daily |
+| Metronidazol 250mg | 250mg | 0.00 | Not Available |
+| Concentrated Epimedium 90g Powder | 1/2 scoop | twice daily | Mix 1/2 scoop twice daily with food |
+| Trazadone | 1/2 tab | BID | Not Available |
+| Alprazolam | 1/4 tab | BID | Not Available |
+| Acepromazine | 1/4 tab | SID | Not Available |
+| Sucralfate | Not Available | Not Available | Not Available |
+| Buprenorphine | 0.3ml | Not Available | Not Available |
+| Great Sausurea Coptis 0.5g #100 | 0.5g | Not Available | Not Available |
+
+**Laboratory Results**
+### a) Chemistry
+| Test Marker/Parameter | Results | Date | Reference Range |
+| --- | --- | --- | --- |
+| AST (SGOT) | 27 IU/L | Not Available | 15 - 66 |
+| ALT (SGPT) | 301 IU/L | Not Available | 12 - 118 |
+| Alkaline Phosphatase | 315 IU/L | Not Available | 5 - 131 |
+| GGT | 19 IU/L | Not Available | 1 - 12 |
+| Total Bilirubin | 0.2 mg/dL | Not Available | 0.1 - 0.3 |
+| BUN | 16 mg/dL | Not Available | 6 - 31 |
+| Creatinine | Not Available | Not Available | Not Available |
+| Globulin | 2.2 g/dL | Not Available | 1.6 - 3.6 |
+| AG Ratio | 1.5 | Not Available | 0.8 - 2.0 |
+| WBC | 11.81 109/1 | Not Available | 6.00 - 17.00 |
+| RBC | 6.96 1012/1 | Not Available | 5.50 - 8.50 |
+| HGB | 16.8 g/dl | Not Available | 12.0 - 18.0 |
+| HCT | 45.36 % | Not Available | 37.00 - 55.00 |
+| MCV | 65 f1 | Not Available | 60 - 77 |
+| MCH | 24.2 pg | Not Available | 19.5 - 24.5 |
+| MCHC | 37.1 g/dl | Not Available | 31.0 - 39.0 |
+| PLT | 290 109/1 | Not Available | 165 - 500 |
+| PCT | 0.27 % | Not Available | 0.00 - 0.00 |
+| MPV | 9.2 f | Not Available | 3.9 - 11.1 |
+| PDWs | 15.9 f | Not Available | 0.0 - 0.0 |
+| CPK | 84 IU/L | Not Available | 59 - 895 |
+| PrecisionPSL | 40 UIL | Not Available | 140 |
+
+### b) CBC (Complete Blood Count)
+| Test Marker/Parameter | Results | Date | Reference Range |
+| --- | --- | --- | --- |
+| WBC | 11.81 109/1 | Not Available | 6.00 - 17.00 |
+| RBC | 6.96 1012/1 | Not Available | 5.50 - 8.50 |
+| HGB | 16.8 g/dl | Not Available | 12.0 - 18.0 |
+| HCT | 45.36 % | Not Available | 37.00 - 55.00 |
+| MCV | 65 f1 | Not Available | 60 - 77 |
+| MCH | 24.2 pg | Not Available | 19.5 - 24.5 |
+| MCHC | 37.1 g/dl | Not Available | 31.0 - 39.0 |
+| PLT | 290 109/1 | Not Available | 165 - 500 |
+| PCT | 0.27 % | Not Available | 0.00 - 0.00 |
+| MPV | 9.2 f | Not Available | 3.9 - 11.1 |
+| PDWs | 15.9 f | Not Available | 0.0 - 0.0 |
+
+### c) Endocrinology
+| Test Marker/Parameter | Results | Date | Reference Range |
+| --- | --- | --- | --- |
+| Not Available | Not Available | Not Available | Not Available |
+
+### d) Urinalysis
+| Test Marker/Parameter | Results | Date | Reference Range |
+| --- | --- | --- | --- |
+| Not Available | Not Available | Not Available | Not Available |
+
+### e) Heartworm Test Results
+| Test Marker/Parameter | Results | Date | Reference Range |
+| --- | --- | --- | --- |
+| Not Available | Not Available | Not Available | Not Available |
+
+### f) Fecal Results
+| Test Marker/Parameter | Results | Date | Reference Range |
+| --- | --- | --- | --- |
+| Not Available | Not Available | Not Available | Not Available |
+
+### g) Other Tests
+| Test Marker/Parameter | Results | Date | Reference Range |
+| --- | --- | --- | --- |
+| Not Available | Not Available | Not Available | Not Available |
+
+**Imaging Results**
+### Radiographs
+| Date | Position/View | Results/Findings |
+| --- | --- | --- |
+| Not Available | Not Available | Not Available |
+
+### Ultrasound
+| Date | Results/Findings |
+| --- | --- |
+| Not Available | Not Available |
+
+**Special Instructions**
+| Instruction | Date |
+| --- | --- |
+| Not Available | Not Available |

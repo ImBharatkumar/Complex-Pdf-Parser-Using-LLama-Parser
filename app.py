@@ -4,22 +4,13 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import JinaEmbeddings
 from langchain_core.prompts import PromptTemplate
-from typing import List
-import load_dotenv
 from langchain.text_splitter import MarkdownTextSplitter
-import getpass
 import os
-from typing import List
 import json
 from llama_parse import LlamaParse
 from llama_index.core import SimpleDirectoryReader
 
-
-
-
-# Load environment variables
-jina_api=os.getenv('jina_api')#get free jina_api key for embeddings and save it in colabs secret
-
+jina_api=os.getenv('jina_api')
 
 # Instantiation of LLM model
 model = ChatGroq(
@@ -251,7 +242,5 @@ def get_ans(query: str, docs):
 doc ="/mnt/d/Projects/Cognito Labs/output/output.md"
 result = get_ans('provide me output as per {prompt}',doc)
 print(result)
-with open("/mnt/d/Projects/Cognito Labs/output/final_output.txt", 'w') as f:
-    f.write(result) 
 
 

@@ -30,4 +30,4 @@ export LLAMA_API_KEY="your_api_key" && export LLAMA_API_SECRET="your_api_secret"
 
 ### Run application
 
-`python3 app.py`
+`python3 app.py > output.txt`
