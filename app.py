@@ -1,5 +1,4 @@
 ## Import necessary libraries/modules
-from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.vectorstores import FAISS
@@ -8,7 +7,6 @@ from langchain_core.prompts import PromptTemplate
 from typing import List
 import load_dotenv
 from langchain.text_splitter import MarkdownTextSplitter
-from langchain.chains import LLMChain, StuffDocumentsChain
 import getpass
 import os
 from typing import List
@@ -18,10 +16,6 @@ from llama_index.core import SimpleDirectoryReader
 
 
 
-#load_dotenv()
-#On promt enter groq api key with out quotes
-if "GROQ_API_KEY" not in os.environ:
-    os.environ["GROQ_API_KEY"] = getpass.getpass("Enter your Groq API key:")
 
 # Load environment variables
 jina_api=os.getenv('jina_api')#get free jina_api key for embeddings and save it in colabs secret
@@ -195,18 +189,18 @@ def document_parser(filepath):
     # Convert list of Document instances to a single string
     documents_string = "\n".join(str(doc) for doc in documents)  # Convert each Document to string
 
-    with open('/output/output.md', 'w') as f:
+    with open("/mnt/d/Projects/Cognito Labs/output/output.md", 'w') as f:
         f.write(documents_string)  # Write the string to the file
 
 
 
 
-def get_ans(query: str, docs:List[str]):
+def get_ans(query: str, docs):
     """Get answer using late chunking and contextual retrieval with structured output"""
     try:
         # Split text into chunks of 1000 words with overlap of 200 words for better context
         # Load markdown content from file
-        with open('/data/output.md', 'r') as file:
+        with open(docs, 'r') as file:
             markdown_content = file.read()
 
         # Initialize the Markdown Text Splitter
@@ -253,8 +247,11 @@ def get_ans(query: str, docs:List[str]):
 
 
 
-document_parser("/data/sample_input.pdf")
-doc ="/output/output.md"
+#document_parser("/mnt/d/Projects/Cognito Labs/data/sample_input.pdf")
+doc ="/mnt/d/Projects/Cognito Labs/output/output.md"
 result = get_ans('provide me output as per {prompt}',doc)
 print(result)
+with open("/mnt/d/Projects/Cognito Labs/output/final_output.txt", 'w') as f:
+    f.write(result) 
+
 

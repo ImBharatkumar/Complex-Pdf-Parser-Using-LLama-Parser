@@ -1,0 +1,97 @@
+**Client Information**
+| Full Name | Phone Number | Complete Address | Email Address |
+| --- | --- | --- | --- |
+| Teleah Grand | 20005 | Dallas, TX 75219 | Not Available |
+
+**Patient Information**
+| Pet's Name | Breed | Date of Birth/Age | Gender | Microchip Number |
+| --- | --- | --- | --- | --- |
+| Buckshot | French Bulldog | Feb 28, 2018 (6 years) | Neutered Male | RADIO'981020021462501 |
+
+**Veterinary Clinic Information**
+| Visit Date | Clinic Name | Phone Number |
+| --- | --- | --- |
+| Sep 13, 2024 | Animal Care Center at Stonebridge Ranch | Not Available |
+| Aug 26, 2024 | Animal Care Center at Stonebridge Ranch | Not Available |
+| May 20, 2024 | Animal Care Center at Stonebridge Ranch | Not Available |
+| ... | ... | ... |
+
+**Vaccination Records**
+| Vaccine Name | Administration Date | Manufacturer Tag Number |
+| --- | --- | --- |
+| Bordetella | Jun 09, 2022 | 040802.52 |
+| ... | ... | ... |
+
+**Medical Information (Weight History)**
+| Weight | Date |
+| --- | --- |
+| Not Available | Not Available |
+
+**Patient Alerts**
+* Medical conditions: sensitive stomach, inflammatory bowel disease
+* Allergies: Not Available
+* Behavioral notes: anxious, vomiting or stressed
+* Special handling requirements: Not Available
+
+**Medications**
+| Medicine Name | Strength/Dosage | Quantity | Prescription Details |
+| --- | --- | --- | --- |
+| Metoclopramide | 10mg | 0.00 | Give 1/4 tablet by mouth twice daily |
+| Metronidazole | 250mg | 0.00 | Use as directed |
+| ... | ... | ... | ... |
+
+**Laboratory Results**
+### a) Chemistry
+| Test Marker/Parameter | Results | Reference Range |
+| --- | --- | --- |
+| AST (SGOT) | 27 IU/L | 15 - 66 |
+| ALT (SGPT) | 301 IU/L | 12 - 118 |
+| ... | ... | ... |
+
+### b) CBC (Complete Blood Count)
+| Test Marker/Parameter | Results | Reference Range |
+| --- | --- | --- |
+| WBC | 11.81 109/1 | 6.00 - 17.00 |
+| RBC | 6.96 1012/1 | 5.50 - 8.50 |
+| ... | ... | ... |
+
+### c) Endocrinology
+| Test Marker/Parameter | Results | Reference Range |
+| --- | --- | --- |
+| Not Available | Not Available | Not Available |
+
+### d) Urinalysis
+| Test Marker/Parameter | Results | Reference Range |
+| --- | --- | --- |
+| Not Available | Not Available | Not Available |
+
+### e) Heartworm Test Results
+| Test Marker/Parameter | Results | Reference Range |
+| --- | --- | --- |
+| Not Available | Not Available | Not Available |
+
+### f) Fecal Results
+| Test Marker/Parameter | Results | Reference Range |
+| --- | --- | --- |
+| Not Available | Not Available | Not Available |
+
+### g) Other Tests
+| Test Marker/Parameter | Results | Reference Range |
+| --- | --- | --- |
+| Not Available | Not Available | Not Available |
+
+**Imaging Results**
+### Radiographs
+| Date | Position/View | Results/Findings |
+| --- | --- | --- |
+| Not Available | Not Available | Not Available |
+
+### Ultrasound
+| Date | Results/Findings |
+| --- | --- |
+| Not Available | Not Available |
+
+**Special Instructions**
+| Instruction | Date |
+| --- | --- |
+| Not Available | Not Available |
