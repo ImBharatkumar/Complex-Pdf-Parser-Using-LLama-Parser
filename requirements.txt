@@ -1,0 +1,12 @@
+langchain
+pydantic==2.7.4
+langchain_community
+tiktoken
+langchain-groq
+load_dotenv
+faiss-gpu
+faiss-cpu
+llama-index-core
+llama-parse 
+llama-index-readers-file 
+python-dotenv
